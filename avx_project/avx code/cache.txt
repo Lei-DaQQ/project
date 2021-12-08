@@ -1,0 +1,4 @@
+L1d 缓存：                       384 KiB    = 393216 B = 49152 double
+L1i 缓存：                       256 KiB   
+L2 缓存：                        4 MiB      = 524288 double
+L3 缓存：                        16 MiB
